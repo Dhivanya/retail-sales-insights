@@ -1,0 +1,1001 @@
+order_id,month,region,product,quantity,unit_price,status,revenue
+1001,Jul,West,Keyboard,12,12806,Shipped,153672
+1002,Apr,West,Keyboard,15,11003,Resolved,165045
+1003,Nov,South,Monitor,17,19725,Resolved,335325
+1004,Aug,East,Headphones,10,37476,Resolved,374760
+1005,May,South,Phone,6,12090,On Hold,72540
+1006,Jul,South,Camera,18,11386,Resolved,204948
+1007,Oct,South,Keyboard,13,13366,Cancelled,173758
+1008,Mar,East,Mouse,3,1588,On Hold,4764
+1009,Jul,West,Tablet,10,3863,Shipped,38630
+1010,Nov,East,Laptop,14,33292,Shipped,466088
+1011,Nov,North,Laptop,6,10264,Shipped,61584
+1012,Aug,East,Laptop,3,21120,On Hold,63360
+1013,May,East,Camera,16,43227,Cancelled,691632
+1014,Apr,East,Headphones,7,13435,Resolved,94045
+1015,Aug,East,Phone,14,8568,Resolved,119952
+1016,Aug,West,Monitor,9,7795,Shipped,70155
+1017,Mar,North,Camera,15,41660,Shipped,624900
+1018,Jun,West,Camera,3,11890,On Hold,35670
+1019,May,West,Keyboard,2,41716,Cancelled,83432
+1020,Feb,East,Tablet,2,20631,Resolved,41262
+1021,Aug,South,Camera,3,29718,On Hold,89154
+1022,Dec,South,Mouse,18,10933,Resolved,196794
+1023,Jun,West,Tablet,14,15538,Shipped,217532
+1024,Feb,West,Mouse,18,28682,Resolved,516276
+1025,Dec,East,Headphones,10,12028,Cancelled,120280
+1026,May,West,Phone,2,21781,Cancelled,43562
+1027,Jan,East,Laptop,1,49011,Shipped,49011
+1028,Dec,South,Camera,4,9105,Cancelled,36420
+1029,Oct,South,Phone,14,35282,Cancelled,493948
+1030,Jun,North,Headphones,1,1881,On Hold,1881
+1031,Dec,South,Monitor,14,1598,Resolved,22372
+1032,Sep,West,Monitor,16,20310,Shipped,324960
+1033,Jan,South,Headphones,14,24822,Shipped,347508
+1034,Nov,East,Mouse,3,42369,Shipped,127107
+1035,Nov,South,Keyboard,3,33455,Shipped,100365
+1036,Oct,North,Keyboard,9,45216,Shipped,406944
+1037,Dec,South,Mouse,6,10707,Cancelled,64242
+1038,Dec,East,Monitor,13,22293,On Hold,289809
+1039,Mar,East,Monitor,2,2592,Shipped,5184
+1040,Dec,West,Camera,8,28720,On Hold,229760
+1041,Jul,South,Monitor,2,19014,On Hold,38028
+1042,Apr,East,Phone,4,38510,Cancelled,154040
+1043,Sep,North,Monitor,15,9049,Shipped,135735
+1044,Mar,West,Tablet,4,22531,Cancelled,90124
+1045,May,North,Camera,13,5685,Shipped,73905
+1046,Mar,South,Laptop,12,15771,Cancelled,189252
+1047,Jul,South,Monitor,13,6276,On Hold,81588
+1048,May,South,Mouse,14,12949,Shipped,181286
+1049,Sep,West,Laptop,18,24797,Resolved,446346
+1050,Jul,East,Phone,6,41091,On Hold,246546
+1051,Feb,West,Mouse,11,16217,Resolved,178387
+1052,Apr,North,Laptop,2,40623,On Hold,81246
+1053,Sep,West,Mouse,19,39733,Cancelled,754927
+1054,Dec,North,Phone,19,46005,Shipped,874095
+1055,Feb,West,Camera,5,46592,On Hold,232960
+1056,Oct,East,Tablet,19,10850,Cancelled,206150
+1057,Sep,North,Phone,2,31122,Shipped,62244
+1058,Oct,South,Phone,10,35823,Shipped,358230
+1059,May,South,Mouse,2,3451,On Hold,6902
+1060,Feb,West,Camera,11,18122,Shipped,199342
+1061,Apr,South,Headphones,18,5227,On Hold,94086
+1062,Dec,North,Keyboard,15,38954,Shipped,584310
+1063,Dec,South,Monitor,9,36969,Resolved,332721
+1064,Jul,East,Monitor,19,36048,Cancelled,684912
+1065,Dec,East,Tablet,9,24282,Resolved,218538
+1066,Aug,West,Tablet,3,28954,On Hold,86862
+1067,Mar,North,Monitor,9,2868,Resolved,25812
+1068,Jan,East,Keyboard,14,16092,On Hold,225288
+1069,Apr,East,Monitor,19,22673,Shipped,430787
+1070,Feb,North,Headphones,7,33704,Shipped,235928
+1071,Aug,South,Keyboard,16,36096,On Hold,577536
+1072,Apr,South,Tablet,16,34824,Resolved,557184
+1073,Feb,West,Laptop,1,46632,Shipped,46632
+1074,Jun,South,Mouse,4,24364,Cancelled,97456
+1075,Jun,North,Headphones,4,48329,Shipped,193316
+1076,Oct,East,Headphones,7,31250,Cancelled,218750
+1077,Apr,South,Camera,8,11076,Resolved,88608
+1078,Jun,West,Tablet,17,17066,Cancelled,290122
+1079,Feb,South,Tablet,5,7690,Cancelled,38450
+1080,Oct,North,Phone,7,23571,Cancelled,164997
+1081,Dec,West,Headphones,4,38833,Cancelled,155332
+1082,Feb,South,Phone,6,15869,Shipped,95214
+1083,Oct,West,Phone,7,24535,Cancelled,171745
+1084,Apr,North,Mouse,18,2089,Shipped,37602
+1085,Aug,East,Phone,5,25735,Cancelled,128675
+1086,Jul,North,Keyboard,3,659,On Hold,1977
+1087,Dec,North,Monitor,7,12645,Resolved,88515
+1088,Sep,North,Laptop,14,15873,Cancelled,222222
+1089,Aug,North,Tablet,7,32421,On Hold,226947
+1090,May,East,Keyboard,5,39823,Cancelled,199115
+1091,Feb,East,Laptop,5,16737,Cancelled,83685
+1092,May,West,Headphones,2,42471,Cancelled,84942
+1093,Aug,South,Headphones,6,8744,On Hold,52464
+1094,Oct,East,Headphones,15,15243,Resolved,228645
+1095,Sep,East,Keyboard,10,32066,On Hold,320660
+1096,Dec,South,Keyboard,7,46601,Resolved,326207
+1097,Dec,East,Tablet,5,46609,Cancelled,233045
+1098,Dec,North,Monitor,1,19191,Shipped,19191
+1099,Sep,North,Camera,13,34496,Cancelled,448448
+1100,Jan,South,Phone,18,6090,Resolved,109620
+1101,Sep,West,Headphones,13,6085,On Hold,79105
+1102,Jul,West,Mouse,18,9727,Cancelled,175086
+1103,Sep,South,Monitor,5,28778,On Hold,143890
+1104,Aug,South,Mouse,13,39314,On Hold,511082
+1105,Jan,North,Tablet,4,12737,On Hold,50948
+1106,Dec,West,Tablet,17,16149,Cancelled,274533
+1107,Aug,East,Tablet,3,38213,On Hold,114639
+1108,Aug,North,Laptop,17,8427,On Hold,143259
+1109,Nov,South,Mouse,11,45909,Cancelled,504999
+1110,Mar,West,Monitor,4,49266,On Hold,197064
+1111,Jan,East,Camera,2,46654,Cancelled,93308
+1112,Aug,East,Monitor,16,7516,Resolved,120256
+1113,Mar,North,Keyboard,18,14527,Resolved,261486
+1114,Mar,West,Keyboard,8,49188,Resolved,393504
+1115,Jan,West,Headphones,3,24642,On Hold,73926
+1116,Nov,South,Camera,9,47020,Shipped,423180
+1117,May,West,Keyboard,6,24045,Shipped,144270
+1118,Oct,West,Tablet,10,32397,On Hold,323970
+1119,Jul,North,Monitor,10,3667,Shipped,36670
+1120,Oct,West,Mouse,13,45257,Cancelled,588341
+1121,Sep,East,Tablet,17,27417,Shipped,466089
+1122,Dec,North,Laptop,9,23236,On Hold,209124
+1123,Jul,North,Keyboard,17,28490,On Hold,484330
+1124,Sep,South,Tablet,9,14587,Cancelled,131283
+1125,Aug,West,Tablet,9,22940,Resolved,206460
+1126,Dec,South,Laptop,1,35705,On Hold,35705
+1127,Feb,East,Phone,2,15775,Cancelled,31550
+1128,Jan,North,Monitor,16,5776,Shipped,92416
+1129,Jul,North,Mouse,1,42127,Shipped,42127
+1130,Jul,North,Headphones,10,41086,Cancelled,410860
+1131,Aug,East,Phone,18,37996,Cancelled,683928
+1132,May,East,Keyboard,8,19508,On Hold,156064
+1133,Mar,South,Tablet,11,6238,Shipped,68618
+1134,Dec,South,Camera,2,32902,Cancelled,65804
+1135,Aug,South,Laptop,8,6293,Shipped,50344
+1136,Jun,West,Laptop,8,37791,Cancelled,302328
+1137,Nov,North,Camera,17,6071,Shipped,103207
+1138,Mar,North,Monitor,15,31831,Resolved,477465
+1139,Jan,South,Phone,17,16709,On Hold,284053
+1140,Mar,North,Headphones,13,48514,Shipped,630682
+1141,May,South,Monitor,19,25894,Resolved,491986
+1142,Mar,West,Camera,5,43648,Shipped,218240
+1143,Jan,West,Tablet,12,26182,Shipped,314184
+1144,May,East,Camera,1,2724,Resolved,2724
+1145,Oct,West,Monitor,5,41657,Shipped,208285
+1146,Jul,South,Mouse,8,49195,Shipped,393560
+1147,Jul,West,Laptop,13,44952,On Hold,584376
+1148,Nov,East,Laptop,8,43908,Resolved,351264
+1149,Sep,North,Keyboard,11,32941,Resolved,362351
+1150,Oct,South,Keyboard,1,41930,Cancelled,41930
+1151,Oct,North,Camera,13,39629,Shipped,515177
+1152,Dec,East,Headphones,19,35216,On Hold,669104
+1153,Mar,East,Tablet,3,45359,Shipped,136077
+1154,Jul,East,Mouse,17,27086,Shipped,460462
+1155,Jan,North,Phone,5,45260,Cancelled,226300
+1156,Apr,North,Monitor,8,23978,Shipped,191824
+1157,Apr,North,Headphones,14,6818,On Hold,95452
+1158,May,North,Tablet,4,29194,On Hold,116776
+1159,Jul,East,Keyboard,11,20680,Cancelled,227480
+1160,Jul,East,Camera,15,12680,Shipped,190200
+1161,Nov,South,Monitor,19,33502,On Hold,636538
+1162,Apr,South,Keyboard,7,15872,Shipped,111104
+1163,Jul,North,Camera,19,30296,Shipped,575624
+1164,Nov,West,Monitor,19,24927,Shipped,473613
+1165,Mar,West,Phone,11,33790,Cancelled,371690
+1166,Jun,East,Tablet,5,28599,Shipped,142995
+1167,Dec,East,Monitor,5,45986,On Hold,229930
+1168,Feb,East,Mouse,8,10321,Shipped,82568
+1169,Oct,South,Headphones,10,6332,On Hold,63320
+1170,Sep,South,Laptop,6,13320,Shipped,79920
+1171,May,East,Mouse,15,16711,On Hold,250665
+1172,Jun,East,Mouse,16,40390,On Hold,646240
+1173,Dec,East,Headphones,17,6342,Shipped,107814
+1174,Dec,West,Laptop,8,1816,Shipped,14528
+1175,Dec,South,Mouse,8,46468,On Hold,371744
+1176,Dec,West,Monitor,9,18008,Resolved,162072
+1177,Apr,West,Monitor,2,22505,Cancelled,45010
+1178,Nov,East,Monitor,15,15706,Resolved,235590
+1179,Oct,East,Laptop,18,19471,Resolved,350478
+1180,Jul,North,Mouse,3,26099,Shipped,78297
+1181,Dec,North,Camera,17,22556,Cancelled,383452
+1182,Sep,West,Laptop,4,1878,Resolved,7512
+1183,Jul,South,Monitor,4,2019,Shipped,8076
+1184,Jan,East,Headphones,14,22661,Resolved,317254
+1185,Jan,East,Mouse,9,41203,Resolved,370827
+1186,Sep,West,Mouse,9,39361,Shipped,354249
+1187,Nov,North,Keyboard,18,5855,Shipped,105390
+1188,Sep,South,Keyboard,10,9583,Shipped,95830
+1189,Apr,North,Phone,4,38842,Cancelled,155368
+1190,Sep,North,Camera,12,20956,Resolved,251472
+1191,Mar,North,Camera,8,13824,Shipped,110592
+1192,Jul,North,Tablet,2,2757,On Hold,5514
+1193,Jun,East,Camera,13,27864,Resolved,362232
+1194,Aug,East,Keyboard,16,25472,On Hold,407552
+1195,Nov,North,Laptop,2,46679,Cancelled,93358
+1196,Sep,South,Camera,11,27154,Shipped,298694
+1197,May,West,Keyboard,10,15733,On Hold,157330
+1198,Jan,South,Phone,15,16387,Cancelled,245805
+1199,Mar,South,Mouse,17,29820,Shipped,506940
+1200,Oct,South,Camera,8,21308,On Hold,170464
+1201,Dec,North,Phone,18,30654,On Hold,551772
+1202,Aug,East,Mouse,9,35273,Cancelled,317457
+1203,Nov,South,Headphones,8,28247,Shipped,225976
+1204,Jun,North,Headphones,14,11360,Shipped,159040
+1205,Aug,South,Mouse,18,43338,On Hold,780084
+1206,Sep,South,Camera,12,42656,On Hold,511872
+1207,Apr,North,Tablet,19,18656,On Hold,354464
+1208,Jan,East,Keyboard,14,20860,Shipped,292040
+1209,Jan,East,Laptop,17,18635,Cancelled,316795
+1210,Oct,West,Laptop,3,25851,Cancelled,77553
+1211,Apr,North,Monitor,7,30999,Shipped,216993
+1212,Dec,West,Mouse,17,47877,Resolved,813909
+1213,Jul,West,Laptop,12,24054,Cancelled,288648
+1214,Feb,West,Camera,9,49631,On Hold,446679
+1215,Mar,East,Tablet,15,20104,Resolved,301560
+1216,Jan,North,Mouse,18,17423,Resolved,313614
+1217,May,West,Tablet,13,48091,Cancelled,625183
+1218,Jan,North,Camera,8,9047,Resolved,72376
+1219,Aug,North,Laptop,14,44783,Resolved,626962
+1220,Jan,East,Laptop,8,33502,Cancelled,268016
+1221,Nov,West,Monitor,14,15062,Cancelled,210868
+1222,Jan,West,Laptop,7,7980,Resolved,55860
+1223,Feb,North,Mouse,12,27172,On Hold,326064
+1224,Feb,South,Camera,11,4713,Shipped,51843
+1225,Dec,East,Headphones,11,10793,Resolved,118723
+1226,Jun,East,Camera,13,34941,Resolved,454233
+1227,Jul,East,Mouse,18,2600,On Hold,46800
+1228,May,East,Mouse,2,45117,Resolved,90234
+1229,Jan,West,Monitor,15,28672,Resolved,430080
+1230,Jan,West,Monitor,18,20632,Shipped,371376
+1231,Mar,South,Laptop,15,18699,Shipped,280485
+1232,Feb,East,Phone,19,37109,Shipped,705071
+1233,May,East,Camera,12,43465,Cancelled,521580
+1234,Dec,North,Camera,13,8516,Cancelled,110708
+1235,Oct,West,Phone,11,40279,Shipped,443069
+1236,Jun,East,Monitor,5,37761,Shipped,188805
+1237,Jul,South,Laptop,1,32381,Cancelled,32381
+1238,Apr,South,Phone,3,17558,On Hold,52674
+1239,Jul,West,Laptop,19,24972,Resolved,474468
+1240,Nov,South,Laptop,7,41846,Resolved,292922
+1241,Aug,South,Laptop,12,35426,Shipped,425112
+1242,Nov,West,Keyboard,15,35332,On Hold,529980
+1243,Jan,East,Mouse,5,36521,Cancelled,182605
+1244,Jun,East,Laptop,15,24587,Shipped,368805
+1245,Aug,South,Keyboard,8,13328,On Hold,106624
+1246,May,South,Monitor,10,31628,On Hold,316280
+1247,Apr,East,Phone,16,1901,On Hold,30416
+1248,Feb,West,Mouse,8,20143,Cancelled,161144
+1249,Jun,South,Headphones,1,15693,Cancelled,15693
+1250,Jun,North,Phone,12,27353,Resolved,328236
+1251,Nov,West,Mouse,5,45364,Resolved,226820
+1252,Jan,South,Headphones,3,20807,On Hold,62421
+1253,Sep,South,Phone,1,37482,On Hold,37482
+1254,Dec,North,Mouse,4,20111,Cancelled,80444
+1255,Nov,North,Phone,8,44291,Resolved,354328
+1256,Jun,East,Phone,3,12450,On Hold,37350
+1257,Mar,West,Headphones,10,11204,Resolved,112040
+1258,Apr,West,Phone,2,43611,Resolved,87222
+1259,Dec,East,Phone,11,12367,On Hold,136037
+1260,Nov,West,Headphones,10,3245,Cancelled,32450
+1261,Apr,West,Monitor,14,4366,On Hold,61124
+1262,Mar,West,Laptop,7,32745,On Hold,229215
+1263,Oct,West,Camera,2,45224,Resolved,90448
+1264,Mar,West,Tablet,9,6318,On Hold,56862
+1265,Mar,North,Keyboard,16,49361,Cancelled,789776
+1266,Apr,West,Tablet,13,30616,On Hold,398008
+1267,Jul,North,Tablet,9,15993,Cancelled,143937
+1268,Apr,West,Mouse,4,28538,Cancelled,114152
+1269,Sep,East,Laptop,10,20947,Resolved,209470
+1270,Jan,South,Mouse,12,30931,Shipped,371172
+1271,Aug,North,Laptop,17,18408,Shipped,312936
+1272,Jul,West,Headphones,14,29836,Resolved,417704
+1273,Feb,East,Headphones,14,41492,On Hold,580888
+1274,Aug,South,Camera,2,4525,Resolved,9050
+1275,Jan,North,Laptop,11,20593,Cancelled,226523
+1276,Nov,South,Phone,16,6655,Shipped,106480
+1277,Dec,East,Monitor,19,47107,Resolved,895033
+1278,Sep,North,Camera,6,33987,On Hold,203922
+1279,Sep,South,Camera,19,48158,Resolved,915002
+1280,Feb,West,Phone,5,21463,Shipped,107315
+1281,Jul,North,Monitor,4,21436,Resolved,85744
+1282,Oct,South,Mouse,15,4926,Resolved,73890
+1283,Mar,East,Monitor,4,23803,Shipped,95212
+1284,Jul,East,Mouse,10,45780,Cancelled,457800
+1285,Dec,North,Headphones,3,28106,Cancelled,84318
+1286,Oct,South,Tablet,5,48332,Shipped,241660
+1287,Sep,North,Headphones,6,28651,Resolved,171906
+1288,Apr,North,Headphones,8,14267,Shipped,114136
+1289,Dec,South,Tablet,7,11808,Cancelled,82656
+1290,Jan,South,Monitor,10,44745,On Hold,447450
+1291,Feb,West,Camera,6,46171,Resolved,277026
+1292,Jan,South,Monitor,14,25270,Cancelled,353780
+1293,Dec,East,Mouse,4,29072,Resolved,116288
+1294,May,North,Phone,13,41948,Shipped,545324
+1295,May,North,Mouse,17,2704,On Hold,45968
+1296,Nov,East,Phone,7,27733,Shipped,194131
+1297,Jul,South,Headphones,4,22229,On Hold,88916
+1298,Sep,East,Tablet,14,31631,Resolved,442834
+1299,Sep,East,Headphones,3,34370,Resolved,103110
+1300,Mar,West,Laptop,5,38511,Shipped,192555
+1301,Mar,East,Monitor,16,39882,On Hold,638112
+1302,Mar,North,Phone,4,49567,On Hold,198268
+1303,Apr,East,Mouse,2,41975,Resolved,83950
+1304,Aug,North,Tablet,18,47181,Shipped,849258
+1305,Jun,North,Phone,19,22107,On Hold,420033
+1306,Aug,North,Mouse,19,25468,Resolved,483892
+1307,Jan,South,Monitor,17,33898,Cancelled,576266
+1308,Aug,West,Headphones,14,12408,Shipped,173712
+1309,Apr,North,Monitor,19,26923,Cancelled,511537
+1310,Nov,North,Keyboard,13,44115,Shipped,573495
+1311,Jan,South,Laptop,12,9671,Resolved,116052
+1312,Aug,North,Keyboard,6,13221,On Hold,79326
+1313,Apr,East,Tablet,4,49929,On Hold,199716
+1314,Jun,East,Phone,19,17116,On Hold,325204
+1315,Aug,West,Tablet,16,43012,Shipped,688192
+1316,Apr,North,Headphones,13,38958,Resolved,506454
+1317,Mar,South,Mouse,4,46669,Cancelled,186676
+1318,Sep,East,Monitor,17,8159,Resolved,138703
+1319,Mar,South,Keyboard,1,43869,Cancelled,43869
+1320,Sep,South,Camera,18,12204,Shipped,219672
+1321,Feb,East,Keyboard,17,33293,Shipped,565981
+1322,Feb,South,Headphones,15,48652,Cancelled,729780
+1323,Feb,East,Keyboard,11,46973,Cancelled,516703
+1324,Jun,South,Headphones,13,31726,Cancelled,412438
+1325,Mar,East,Camera,1,24352,Resolved,24352
+1326,Sep,North,Tablet,17,32582,Cancelled,553894
+1327,Apr,West,Monitor,6,23294,Shipped,139764
+1328,Jan,East,Phone,4,41920,Shipped,167680
+1329,Apr,East,Mouse,16,13879,On Hold,222064
+1330,Jan,West,Phone,15,7506,Cancelled,112590
+1331,May,East,Tablet,15,9182,Resolved,137730
+1332,Apr,East,Mouse,6,34340,Resolved,206040
+1333,Aug,South,Keyboard,15,32930,Resolved,493950
+1334,Aug,West,Camera,14,23591,On Hold,330274
+1335,Jul,North,Camera,11,33483,Shipped,368313
+1336,Mar,East,Laptop,7,24489,Resolved,171423
+1337,Jan,West,Tablet,9,10415,Shipped,93735
+1338,Jan,South,Tablet,16,43052,On Hold,688832
+1339,Dec,North,Monitor,5,19490,Cancelled,97450
+1340,Nov,West,Phone,10,25234,Cancelled,252340
+1341,Mar,North,Tablet,18,15324,Cancelled,275832
+1342,Jun,North,Tablet,3,36581,Resolved,109743
+1343,Jul,North,Keyboard,13,11533,Cancelled,149929
+1344,Jun,East,Keyboard,11,43236,Resolved,475596
+1345,Jun,East,Mouse,17,16741,On Hold,284597
+1346,Jun,South,Headphones,13,6439,On Hold,83707
+1347,Mar,South,Headphones,6,47964,Resolved,287784
+1348,Jun,West,Laptop,17,48062,Shipped,817054
+1349,Aug,South,Headphones,13,35563,Cancelled,462319
+1350,Nov,North,Monitor,19,34964,Cancelled,664316
+1351,Nov,North,Laptop,19,11685,Cancelled,222015
+1352,Feb,East,Mouse,10,27545,Resolved,275450
+1353,May,North,Keyboard,3,45269,On Hold,135807
+1354,Jan,West,Headphones,14,47618,Cancelled,666652
+1355,Dec,North,Phone,19,19667,On Hold,373673
+1356,Jan,North,Keyboard,5,36912,Cancelled,184560
+1357,May,West,Camera,5,22125,Cancelled,110625
+1358,Dec,South,Monitor,17,39688,Resolved,674696
+1359,Mar,South,Keyboard,10,27576,Shipped,275760
+1360,Apr,West,Monitor,5,45105,Resolved,225525
+1361,Mar,East,Monitor,4,19529,Cancelled,78116
+1362,Jan,North,Monitor,6,23473,Cancelled,140838
+1363,Jan,West,Mouse,4,39621,Shipped,158484
+1364,Dec,North,Monitor,7,31933,On Hold,223531
+1365,Dec,East,Monitor,7,43809,On Hold,306663
+1366,May,North,Camera,18,2432,Cancelled,43776
+1367,Jun,West,Phone,3,44754,On Hold,134262
+1368,Mar,North,Laptop,1,2257,Cancelled,2257
+1369,Dec,South,Tablet,4,31222,Shipped,124888
+1370,Sep,East,Camera,6,38353,Shipped,230118
+1371,May,East,Laptop,9,38905,Cancelled,350145
+1372,Aug,East,Monitor,14,1616,Shipped,22624
+1373,Jan,West,Phone,12,44027,Resolved,528324
+1374,May,East,Keyboard,4,12191,Resolved,48764
+1375,Mar,South,Phone,12,992,Shipped,11904
+1376,Dec,West,Camera,10,28382,Cancelled,283820
+1377,Jan,South,Monitor,7,9311,Cancelled,65177
+1378,Apr,North,Phone,3,28308,Shipped,84924
+1379,May,North,Headphones,14,24772,On Hold,346808
+1380,Jul,North,Phone,10,28899,Resolved,288990
+1381,Jan,North,Monitor,16,6974,On Hold,111584
+1382,Mar,South,Mouse,16,27456,Cancelled,439296
+1383,Feb,West,Headphones,10,47653,Cancelled,476530
+1384,Sep,West,Phone,13,43006,On Hold,559078
+1385,Oct,East,Tablet,6,14479,Shipped,86874
+1386,Jun,South,Tablet,12,45023,On Hold,540276
+1387,Oct,North,Phone,9,43065,On Hold,387585
+1388,Mar,South,Mouse,13,28828,Resolved,374764
+1389,Aug,East,Keyboard,4,47875,Resolved,191500
+1390,Aug,East,Monitor,11,13367,On Hold,147037
+1391,Feb,South,Tablet,18,26351,On Hold,474318
+1392,Jun,South,Keyboard,11,31779,Cancelled,349569
+1393,Jul,South,Phone,4,31027,Resolved,124108
+1394,Feb,West,Camera,18,8366,Resolved,150588
+1395,Nov,North,Keyboard,1,15949,Cancelled,15949
+1396,Oct,South,Headphones,7,11185,Shipped,78295
+1397,Feb,South,Laptop,6,24044,Resolved,144264
+1398,Oct,South,Tablet,15,5951,Resolved,89265
+1399,Jan,East,Phone,18,22142,Shipped,398556
+1400,Aug,East,Camera,11,41816,Resolved,459976
+1401,Jan,West,Monitor,15,40454,Resolved,606810
+1402,Sep,North,Camera,16,39370,Shipped,629920
+1403,Nov,West,Mouse,7,31530,Shipped,220710
+1404,Jun,North,Headphones,10,31373,On Hold,313730
+1405,Jul,East,Phone,12,1119,Cancelled,13428
+1406,Oct,East,Monitor,14,34150,Cancelled,478100
+1407,Jul,East,Mouse,5,25872,Shipped,129360
+1408,Oct,West,Mouse,18,4142,Shipped,74556
+1409,Mar,South,Phone,5,28501,Resolved,142505
+1410,Feb,South,Headphones,3,34564,On Hold,103692
+1411,Sep,East,Keyboard,5,29790,On Hold,148950
+1412,Aug,South,Keyboard,17,14622,Shipped,248574
+1413,Dec,South,Mouse,19,25320,Resolved,481080
+1414,Oct,West,Keyboard,19,3395,Resolved,64505
+1415,Jul,North,Laptop,12,5866,Cancelled,70392
+1416,Sep,East,Mouse,9,9211,Cancelled,82899
+1417,Apr,East,Mouse,1,20096,Resolved,20096
+1418,Apr,West,Monitor,18,19293,Cancelled,347274
+1419,Jan,West,Keyboard,4,8699,Shipped,34796
+1420,Aug,South,Headphones,10,11217,Resolved,112170
+1421,Dec,East,Mouse,7,36691,Cancelled,256837
+1422,Mar,North,Camera,1,10711,On Hold,10711
+1423,Jul,West,Headphones,17,46050,Resolved,782850
+1424,Dec,North,Laptop,2,23860,Resolved,47720
+1425,Feb,North,Monitor,11,22042,On Hold,242462
+1426,Feb,East,Phone,9,31812,Shipped,286308
+1427,Jul,East,Headphones,7,45742,On Hold,320194
+1428,Jun,West,Mouse,17,36935,Resolved,627895
+1429,Mar,East,Laptop,17,28747,Shipped,488699
+1430,Sep,East,Tablet,2,22857,Cancelled,45714
+1431,Oct,East,Laptop,6,41545,Cancelled,249270
+1432,Jun,North,Laptop,14,28191,Cancelled,394674
+1433,Oct,West,Monitor,6,12924,Resolved,77544
+1434,Oct,South,Phone,2,19352,On Hold,38704
+1435,Jun,North,Tablet,1,23101,Shipped,23101
+1436,Jan,East,Keyboard,10,18520,Cancelled,185200
+1437,Apr,North,Keyboard,5,8655,Shipped,43275
+1438,Oct,East,Headphones,2,4083,Resolved,8166
+1439,Jun,East,Laptop,16,16015,Cancelled,256240
+1440,Jun,North,Camera,2,37277,Resolved,74554
+1441,Nov,West,Monitor,10,20210,On Hold,202100
+1442,Dec,East,Camera,2,43678,Resolved,87356
+1443,May,West,Monitor,16,25032,Resolved,400512
+1444,Jan,South,Keyboard,16,19101,On Hold,305616
+1445,Aug,East,Headphones,19,5467,Shipped,103873
+1446,May,West,Headphones,7,19253,On Hold,134771
+1447,Dec,West,Headphones,12,20522,On Hold,246264
+1448,Dec,South,Tablet,15,43963,Resolved,659445
+1449,Dec,West,Phone,8,9635,Shipped,77080
+1450,May,West,Tablet,6,6222,Cancelled,37332
+1451,Jul,South,Mouse,10,27913,On Hold,279130
+1452,Apr,East,Mouse,3,27736,Shipped,83208
+1453,Jun,West,Camera,19,16014,On Hold,304266
+1454,Apr,West,Phone,17,44396,On Hold,754732
+1455,Mar,West,Keyboard,7,37712,On Hold,263984
+1456,Jul,North,Phone,4,40886,On Hold,163544
+1457,Aug,South,Monitor,14,20831,Resolved,291634
+1458,Apr,North,Mouse,15,18560,Shipped,278400
+1459,Feb,South,Laptop,8,1696,Shipped,13568
+1460,Dec,East,Laptop,15,12797,Shipped,191955
+1461,Oct,East,Keyboard,14,3287,On Hold,46018
+1462,Mar,West,Monitor,9,24316,Resolved,218844
+1463,Jan,South,Camera,8,41195,On Hold,329560
+1464,Aug,East,Tablet,17,20202,On Hold,343434
+1465,Mar,South,Monitor,2,25742,Shipped,51484
+1466,Dec,East,Laptop,3,2676,On Hold,8028
+1467,Oct,North,Laptop,8,20627,Cancelled,165016
+1468,Jul,East,Camera,12,42060,On Hold,504720
+1469,Oct,North,Mouse,1,27728,Cancelled,27728
+1470,May,East,Monitor,10,20708,On Hold,207080
+1471,Oct,West,Monitor,3,28982,Resolved,86946
+1472,May,North,Laptop,6,9671,Resolved,58026
+1473,Jul,East,Tablet,7,35719,Shipped,250033
+1474,Sep,West,Keyboard,18,33896,On Hold,610128
+1475,Dec,North,Headphones,11,43089,Cancelled,473979
+1476,May,West,Keyboard,19,41046,Cancelled,779874
+1477,Jan,South,Monitor,5,4196,On Hold,20980
+1478,Oct,South,Keyboard,19,20558,Cancelled,390602
+1479,Oct,North,Laptop,11,20813,Resolved,228943
+1480,Jan,East,Laptop,12,19649,Cancelled,235788
+1481,Feb,North,Camera,10,46240,Shipped,462400
+1482,Jun,West,Monitor,8,41575,Resolved,332600
+1483,Sep,East,Camera,9,5456,Resolved,49104
+1484,Aug,South,Monitor,4,10695,Resolved,42780
+1485,May,East,Headphones,5,17576,On Hold,87880
+1486,Jan,South,Headphones,8,1605,On Hold,12840
+1487,Jul,East,Mouse,9,15917,Resolved,143253
+1488,May,East,Monitor,15,25229,On Hold,378435
+1489,Jun,East,Tablet,15,47456,Cancelled,711840
+1490,Jul,West,Keyboard,16,30599,On Hold,489584
+1491,Mar,West,Monitor,14,33098,On Hold,463372
+1492,Dec,North,Phone,8,30461,Resolved,243688
+1493,Oct,North,Mouse,18,13102,Shipped,235836
+1494,Mar,South,Phone,10,9756,Shipped,97560
+1495,May,West,Laptop,6,21084,Shipped,126504
+1496,Jun,South,Headphones,12,47480,Cancelled,569760
+1497,Sep,North,Keyboard,2,35181,On Hold,70362
+1498,Dec,South,Monitor,7,26292,Shipped,184044
+1499,May,North,Phone,16,22404,Resolved,358464
+1500,Jan,West,Keyboard,3,43861,Shipped,131583
+1501,Apr,East,Laptop,13,35040,Shipped,455520
+1502,May,West,Headphones,3,27036,On Hold,81108
+1503,Dec,South,Tablet,18,19664,On Hold,353952
+1504,Oct,South,Mouse,11,13496,On Hold,148456
+1505,Oct,West,Keyboard,8,3371,Cancelled,26968
+1506,May,West,Keyboard,6,46502,Cancelled,279012
+1507,Jul,North,Tablet,1,23126,Shipped,23126
+1508,Apr,South,Keyboard,1,11021,On Hold,11021
+1509,Jan,South,Laptop,8,43910,Shipped,351280
+1510,May,West,Laptop,5,1632,Resolved,8160
+1511,Jul,East,Tablet,16,33967,Resolved,543472
+1512,Oct,South,Mouse,11,15034,On Hold,165374
+1513,Oct,East,Monitor,5,24354,On Hold,121770
+1514,Jun,West,Phone,4,43498,Resolved,173992
+1515,May,West,Monitor,6,39565,On Hold,237390
+1516,Apr,North,Keyboard,14,46107,Cancelled,645498
+1517,Feb,South,Phone,19,8312,Cancelled,157928
+1518,Apr,East,Camera,9,5057,On Hold,45513
+1519,Oct,North,Tablet,12,2679,Resolved,32148
+1520,Oct,South,Tablet,11,44298,Shipped,487278
+1521,Mar,North,Mouse,14,9565,On Hold,133910
+1522,Oct,West,Phone,16,8775,On Hold,140400
+1523,Jan,South,Laptop,1,48357,Shipped,48357
+1524,Aug,North,Phone,13,36448,On Hold,473824
+1525,May,North,Keyboard,13,21200,Shipped,275600
+1526,Apr,East,Laptop,2,39964,Resolved,79928
+1527,Aug,North,Headphones,4,42851,Cancelled,171404
+1528,Jul,South,Headphones,6,28294,Resolved,169764
+1529,Feb,South,Camera,5,29283,Cancelled,146415
+1530,Jan,East,Headphones,3,17498,Shipped,52494
+1531,Dec,South,Tablet,1,14369,Cancelled,14369
+1532,Nov,West,Phone,4,45025,Resolved,180100
+1533,Apr,South,Headphones,2,28652,Cancelled,57304
+1534,Aug,South,Monitor,5,21454,Shipped,107270
+1535,Dec,North,Mouse,3,32055,Cancelled,96165
+1536,Feb,North,Monitor,9,17154,On Hold,154386
+1537,Mar,South,Headphones,6,45526,Resolved,273156
+1538,Dec,East,Camera,18,35736,On Hold,643248
+1539,Jan,North,Mouse,6,47476,Shipped,284856
+1540,Jan,East,Keyboard,19,15542,Cancelled,295298
+1541,Mar,South,Monitor,12,26466,On Hold,317592
+1542,Nov,South,Camera,11,48907,On Hold,537977
+1543,May,West,Phone,2,44814,Cancelled,89628
+1544,Dec,North,Phone,15,45595,Cancelled,683925
+1545,Mar,South,Monitor,12,14770,Resolved,177240
+1546,Jan,West,Headphones,12,31408,On Hold,376896
+1547,Jan,North,Camera,9,16023,On Hold,144207
+1548,Aug,South,Phone,2,47568,Shipped,95136
+1549,Oct,South,Keyboard,3,20491,Resolved,61473
+1550,Nov,North,Laptop,12,11275,Shipped,135300
+1551,Dec,North,Headphones,16,12765,On Hold,204240
+1552,Dec,North,Camera,1,19959,Shipped,19959
+1553,Feb,South,Keyboard,3,17173,On Hold,51519
+1554,Mar,South,Camera,2,27556,On Hold,55112
+1555,Feb,West,Mouse,9,7114,Shipped,64026
+1556,Mar,East,Keyboard,19,36520,Shipped,693880
+1557,Jul,North,Headphones,15,7915,Cancelled,118725
+1558,Jan,South,Mouse,18,23655,Cancelled,425790
+1559,Oct,South,Headphones,11,49930,Cancelled,549230
+1560,Aug,North,Phone,16,44384,On Hold,710144
+1561,Oct,East,Laptop,17,17464,Shipped,296888
+1562,Oct,North,Headphones,5,38226,Resolved,191130
+1563,Oct,East,Headphones,12,37544,On Hold,450528
+1564,Feb,South,Phone,11,38044,Resolved,418484
+1565,Mar,East,Tablet,15,32752,Shipped,491280
+1566,Sep,West,Phone,3,4332,On Hold,12996
+1567,Jul,South,Mouse,1,25775,Resolved,25775
+1568,Apr,West,Phone,16,15401,Resolved,246416
+1569,Oct,North,Phone,2,38713,Cancelled,77426
+1570,May,North,Laptop,2,34648,Cancelled,69296
+1571,Feb,North,Phone,3,43133,Cancelled,129399
+1572,Nov,East,Camera,8,23418,On Hold,187344
+1573,Aug,South,Headphones,15,47194,Shipped,707910
+1574,Apr,North,Camera,7,20040,Shipped,140280
+1575,Sep,North,Laptop,6,12080,Cancelled,72480
+1576,May,South,Monitor,9,38902,Cancelled,350118
+1577,Sep,North,Tablet,1,39078,Cancelled,39078
+1578,Apr,West,Camera,8,25417,Resolved,203336
+1579,Oct,South,Laptop,3,22818,Cancelled,68454
+1580,May,South,Mouse,4,10679,Resolved,42716
+1581,Sep,South,Monitor,15,12751,Shipped,191265
+1582,Aug,West,Laptop,6,46399,On Hold,278394
+1583,Mar,South,Laptop,15,19993,On Hold,299895
+1584,Jan,West,Tablet,3,20966,On Hold,62898
+1585,Mar,South,Headphones,14,30706,On Hold,429884
+1586,Apr,East,Camera,14,45975,Resolved,643650
+1587,Feb,North,Mouse,4,20124,Resolved,80496
+1588,Jan,East,Keyboard,12,27064,Cancelled,324768
+1589,Jul,North,Camera,17,22912,Resolved,389504
+1590,Aug,West,Keyboard,7,28490,Cancelled,199430
+1591,Jul,East,Laptop,9,36017,Cancelled,324153
+1592,May,South,Phone,3,13656,On Hold,40968
+1593,Dec,North,Mouse,13,23564,Resolved,306332
+1594,Jan,North,Monitor,15,26211,Resolved,393165
+1595,Jul,East,Phone,18,30606,Cancelled,550908
+1596,Jul,West,Phone,19,17089,Cancelled,324691
+1597,Sep,East,Camera,1,24236,Shipped,24236
+1598,Mar,West,Mouse,6,21475,Shipped,128850
+1599,Sep,West,Headphones,2,36718,Cancelled,73436
+1600,Jan,North,Laptop,14,7714,Shipped,107996
+1601,Jan,East,Laptop,6,31081,Shipped,186486
+1602,Apr,East,Laptop,14,20695,Cancelled,289730
+1603,Sep,West,Laptop,4,45082,Cancelled,180328
+1604,Jun,East,Camera,8,27627,Resolved,221016
+1605,Nov,South,Keyboard,3,5641,Cancelled,16923
+1606,Mar,South,Laptop,19,29384,Cancelled,558296
+1607,Jan,East,Keyboard,14,25385,On Hold,355390
+1608,Apr,East,Keyboard,17,3208,Resolved,54536
+1609,Dec,West,Headphones,8,18875,Resolved,151000
+1610,Sep,South,Laptop,14,15588,Resolved,218232
+1611,Mar,South,Tablet,6,45102,On Hold,270612
+1612,Dec,North,Monitor,16,45546,Cancelled,728736
+1613,Sep,West,Phone,19,10514,Resolved,199766
+1614,Jul,North,Keyboard,14,3773,Resolved,52822
+1615,Dec,South,Mouse,19,47635,Shipped,905065
+1616,Apr,West,Mouse,3,37806,Resolved,113418
+1617,Mar,East,Monitor,10,31381,Cancelled,313810
+1618,Oct,West,Mouse,19,31986,Cancelled,607734
+1619,May,East,Tablet,9,13041,Shipped,117369
+1620,May,East,Mouse,13,9212,Resolved,119756
+1621,Mar,West,Phone,7,9668,Resolved,67676
+1622,Dec,East,Phone,14,4051,Resolved,56714
+1623,Sep,North,Keyboard,9,12797,On Hold,115173
+1624,Apr,South,Laptop,19,44233,Resolved,840427
+1625,Nov,East,Headphones,15,27628,Cancelled,414420
+1626,May,North,Tablet,14,3332,Cancelled,46648
+1627,Apr,East,Keyboard,6,28983,On Hold,173898
+1628,May,South,Tablet,4,22563,On Hold,90252
+1629,Jul,North,Laptop,8,23463,Resolved,187704
+1630,Sep,South,Camera,17,13922,Shipped,236674
+1631,Jul,South,Mouse,9,33420,On Hold,300780
+1632,May,North,Mouse,1,11656,On Hold,11656
+1633,Oct,North,Headphones,14,11608,Resolved,162512
+1634,Oct,North,Laptop,11,32345,Resolved,355795
+1635,Jul,West,Keyboard,3,3300,On Hold,9900
+1636,Oct,North,Headphones,9,38578,Shipped,347202
+1637,May,North,Laptop,14,43212,On Hold,604968
+1638,Mar,North,Monitor,9,3110,Resolved,27990
+1639,Jul,North,Phone,4,12567,Resolved,50268
+1640,Nov,East,Headphones,4,34372,On Hold,137488
+1641,Nov,West,Headphones,8,11228,Shipped,89824
+1642,Feb,South,Keyboard,2,30066,On Hold,60132
+1643,Dec,North,Tablet,9,30283,On Hold,272547
+1644,Sep,East,Monitor,14,21083,Resolved,295162
+1645,Oct,East,Keyboard,9,20738,Shipped,186642
+1646,Oct,East,Laptop,16,7763,Cancelled,124208
+1647,Dec,South,Laptop,17,2414,Shipped,41038
+1648,Jan,North,Laptop,16,24249,On Hold,387984
+1649,Jun,West,Camera,12,19956,On Hold,239472
+1650,Jul,West,Laptop,3,26082,On Hold,78246
+1651,Aug,East,Tablet,11,906,Shipped,9966
+1652,Oct,South,Monitor,14,14189,Resolved,198646
+1653,Sep,South,Mouse,18,33434,On Hold,601812
+1654,Feb,South,Phone,5,33776,On Hold,168880
+1655,Nov,West,Tablet,16,36932,Shipped,590912
+1656,Oct,East,Tablet,5,20373,Cancelled,101865
+1657,Feb,North,Camera,3,13550,Cancelled,40650
+1658,May,West,Mouse,12,1180,Resolved,14160
+1659,May,East,Mouse,1,19408,Resolved,19408
+1660,Jun,East,Phone,9,19004,On Hold,171036
+1661,Mar,North,Phone,9,22144,Shipped,199296
+1662,Aug,North,Mouse,4,37625,On Hold,150500
+1663,Jan,North,Laptop,3,1863,Resolved,5589
+1664,Jun,South,Tablet,17,42791,Shipped,727447
+1665,Apr,North,Keyboard,2,35560,Shipped,71120
+1666,Jan,East,Phone,1,2038,Resolved,2038
+1667,Jul,North,Camera,8,36676,Cancelled,293408
+1668,Sep,East,Camera,13,42020,Cancelled,546260
+1669,Apr,West,Phone,15,26175,Shipped,392625
+1670,Apr,South,Mouse,8,18787,On Hold,150296
+1671,Jun,West,Monitor,12,674,Cancelled,8088
+1672,Dec,West,Keyboard,12,27232,On Hold,326784
+1673,Mar,East,Keyboard,14,35498,Cancelled,496972
+1674,Dec,West,Phone,15,37555,Cancelled,563325
+1675,Jun,East,Laptop,15,12612,On Hold,189180
+1676,Jul,North,Monitor,9,40374,Resolved,363366
+1677,Nov,North,Keyboard,19,10189,Cancelled,193591
+1678,Oct,East,Phone,8,45314,Cancelled,362512
+1679,Oct,North,Camera,19,20055,On Hold,381045
+1680,Mar,South,Keyboard,6,34419,Resolved,206514
+1681,Jul,West,Headphones,19,8119,Cancelled,154261
+1682,Mar,South,Monitor,4,6533,Cancelled,26132
+1683,Feb,West,Monitor,7,41828,Resolved,292796
+1684,Dec,North,Headphones,4,5446,Cancelled,21784
+1685,Oct,South,Tablet,12,25118,Resolved,301416
+1686,Apr,North,Camera,13,35175,Resolved,457275
+1687,Dec,West,Headphones,3,36758,On Hold,110274
+1688,Aug,East,Mouse,12,19419,Shipped,233028
+1689,Sep,East,Mouse,2,4673,Resolved,9346
+1690,Jul,South,Phone,2,44333,On Hold,88666
+1691,Jan,North,Monitor,9,26900,Shipped,242100
+1692,Mar,North,Tablet,1,5269,Cancelled,5269
+1693,Dec,South,Tablet,8,38064,Shipped,304512
+1694,Sep,East,Keyboard,6,46314,Resolved,277884
+1695,Dec,West,Keyboard,6,14711,Resolved,88266
+1696,Jan,South,Headphones,18,23755,Resolved,427590
+1697,Sep,West,Tablet,17,28462,Resolved,483854
+1698,Aug,East,Headphones,12,19856,Resolved,238272
+1699,Jan,North,Camera,6,20806,On Hold,124836
+1700,Jun,East,Headphones,8,5497,Resolved,43976
+1701,May,South,Keyboard,19,17876,On Hold,339644
+1702,Jun,North,Monitor,10,41380,Cancelled,413800
+1703,Oct,South,Headphones,1,38555,Resolved,38555
+1704,Dec,South,Laptop,13,11078,Resolved,144014
+1705,May,East,Monitor,17,19124,Shipped,325108
+1706,Jun,South,Tablet,3,39694,Cancelled,119082
+1707,May,East,Tablet,8,44867,Resolved,358936
+1708,Nov,North,Headphones,14,889,Resolved,12446
+1709,Dec,East,Monitor,3,34267,Cancelled,102801
+1710,May,North,Keyboard,16,46080,On Hold,737280
+1711,Apr,East,Keyboard,13,48867,Resolved,635271
+1712,Mar,West,Mouse,17,2355,Shipped,40035
+1713,Mar,West,Tablet,13,41393,Resolved,538109
+1714,Apr,South,Phone,6,14294,Shipped,85764
+1715,Sep,East,Mouse,17,36031,Shipped,612527
+1716,Feb,East,Keyboard,14,5486,Resolved,76804
+1717,Sep,North,Monitor,17,32798,Resolved,557566
+1718,Jan,South,Camera,8,1981,Shipped,15848
+1719,Jan,East,Keyboard,11,4231,Cancelled,46541
+1720,May,South,Monitor,1,17335,Cancelled,17335
+1721,Jun,West,Mouse,7,28298,Resolved,198086
+1722,Jun,East,Tablet,17,26613,On Hold,452421
+1723,Mar,East,Keyboard,10,19977,Cancelled,199770
+1724,Jul,South,Headphones,11,17766,Resolved,195426
+1725,Sep,East,Monitor,9,21292,Cancelled,191628
+1726,Nov,South,Tablet,9,20952,On Hold,188568
+1727,Dec,East,Camera,5,44026,Resolved,220130
+1728,Oct,North,Camera,17,49579,On Hold,842843
+1729,Aug,South,Phone,9,41834,Resolved,376506
+1730,Jun,East,Monitor,17,12389,On Hold,210613
+1731,Dec,West,Mouse,19,24835,Cancelled,471865
+1732,Aug,East,Phone,7,11754,Cancelled,82278
+1733,Dec,West,Phone,9,21574,On Hold,194166
+1734,May,West,Laptop,7,11942,On Hold,83594
+1735,Aug,North,Keyboard,13,46789,On Hold,608257
+1736,Oct,South,Monitor,11,37827,Resolved,416097
+1737,Dec,East,Phone,14,16699,Cancelled,233786
+1738,Apr,North,Laptop,19,7791,Resolved,148029
+1739,Oct,East,Mouse,11,41428,Cancelled,455708
+1740,Aug,West,Tablet,13,612,Shipped,7956
+1741,Oct,South,Headphones,14,22015,Resolved,308210
+1742,Dec,East,Headphones,13,20081,Cancelled,261053
+1743,Feb,East,Monitor,1,49192,Cancelled,49192
+1744,Dec,West,Phone,8,27000,Resolved,216000
+1745,Dec,East,Headphones,12,32526,Resolved,390312
+1746,May,East,Keyboard,19,17023,Cancelled,323437
+1747,Sep,West,Headphones,12,1924,Resolved,23088
+1748,Apr,North,Headphones,8,20052,On Hold,160416
+1749,Nov,West,Headphones,8,11308,Resolved,90464
+1750,Jun,North,Camera,13,39311,Resolved,511043
+1751,Jan,South,Laptop,12,7489,Resolved,89868
+1752,Sep,North,Phone,16,24120,Cancelled,385920
+1753,Jan,North,Keyboard,1,39529,On Hold,39529
+1754,May,South,Phone,13,1387,Shipped,18031
+1755,Apr,North,Camera,7,32302,Shipped,226114
+1756,Dec,West,Monitor,5,19988,On Hold,99940
+1757,Mar,North,Monitor,8,30513,On Hold,244104
+1758,Jun,South,Monitor,14,49701,On Hold,695814
+1759,Feb,West,Mouse,13,16902,Cancelled,219726
+1760,Mar,South,Headphones,15,21705,Shipped,325575
+1761,May,South,Mouse,17,26549,On Hold,451333
+1762,Sep,East,Laptop,15,12753,Cancelled,191295
+1763,Feb,East,Monitor,18,19490,Shipped,350820
+1764,Oct,South,Camera,18,8346,Resolved,150228
+1765,Aug,South,Keyboard,2,25527,Cancelled,51054
+1766,Feb,South,Phone,4,39700,Shipped,158800
+1767,Nov,East,Headphones,1,46720,Cancelled,46720
+1768,May,East,Tablet,4,46663,Shipped,186652
+1769,Jul,North,Keyboard,18,4265,Shipped,76770
+1770,Aug,North,Headphones,5,16450,Resolved,82250
+1771,Jan,South,Mouse,19,45770,Cancelled,869630
+1772,Jun,West,Mouse,15,10241,On Hold,153615
+1773,Jan,West,Keyboard,8,23242,Resolved,185936
+1774,Feb,East,Mouse,17,25203,Resolved,428451
+1775,Jan,East,Monitor,1,39209,Shipped,39209
+1776,Nov,East,Laptop,12,38123,On Hold,457476
+1777,May,South,Phone,19,23431,Cancelled,445189
+1778,Oct,West,Laptop,15,24080,On Hold,361200
+1779,Sep,North,Headphones,9,15666,On Hold,140994
+1780,Jun,South,Phone,7,29740,On Hold,208180
+1781,Nov,North,Camera,2,26491,On Hold,52982
+1782,Nov,North,Phone,9,39056,On Hold,351504
+1783,Jan,South,Laptop,10,33469,Shipped,334690
+1784,Jan,North,Keyboard,2,11061,Shipped,22122
+1785,Feb,West,Phone,19,17401,Resolved,330619
+1786,Sep,North,Camera,11,41005,Shipped,451055
+1787,Mar,West,Camera,13,30520,Resolved,396760
+1788,Jan,West,Camera,10,26417,Resolved,264170
+1789,May,West,Laptop,14,2488,Cancelled,34832
+1790,Jul,East,Phone,18,48709,On Hold,876762
+1791,Jun,North,Tablet,19,45005,Shipped,855095
+1792,Dec,South,Keyboard,9,14756,Cancelled,132804
+1793,Jan,South,Monitor,7,22692,Shipped,158844
+1794,May,North,Phone,3,28730,Resolved,86190
+1795,May,East,Camera,6,40430,Shipped,242580
+1796,Jun,East,Tablet,2,46333,On Hold,92666
+1797,Mar,West,Monitor,6,23125,Resolved,138750
+1798,May,North,Monitor,3,32588,Resolved,97764
+1799,Jul,North,Headphones,16,14614,Cancelled,233824
+1800,May,South,Phone,8,41667,On Hold,333336
+1801,May,North,Laptop,2,38901,Resolved,77802
+1802,May,East,Phone,17,6255,On Hold,106335
+1803,Oct,North,Tablet,9,11325,Shipped,101925
+1804,Oct,South,Monitor,12,23193,On Hold,278316
+1805,Mar,West,Phone,3,4617,Resolved,13851
+1806,Jan,South,Laptop,11,25229,Cancelled,277519
+1807,May,South,Headphones,1,32682,Resolved,32682
+1808,Sep,West,Phone,13,29390,On Hold,382070
+1809,Jan,South,Keyboard,15,29840,On Hold,447600
+1810,Mar,South,Headphones,5,2018,Resolved,10090
+1811,Apr,North,Laptop,17,31449,On Hold,534633
+1812,Jan,North,Tablet,6,23047,Shipped,138282
+1813,Jan,West,Monitor,11,16846,Resolved,185306
+1814,Aug,North,Phone,18,3100,Cancelled,55800
+1815,Feb,North,Laptop,4,46505,Resolved,186020
+1816,Dec,South,Headphones,3,29767,Shipped,89301
+1817,Aug,East,Keyboard,13,36822,Shipped,478686
+1818,Jul,North,Laptop,9,27490,Shipped,247410
+1819,Oct,East,Mouse,6,16693,Shipped,100158
+1820,Oct,North,Camera,12,30609,Shipped,367308
+1821,Feb,North,Keyboard,2,19733,Cancelled,39466
+1822,Jun,West,Headphones,3,48521,On Hold,145563
+1823,Jun,West,Tablet,3,16694,Shipped,50082
+1824,Mar,West,Monitor,12,35010,Shipped,420120
+1825,Nov,East,Headphones,15,1806,Resolved,27090
+1826,Feb,South,Camera,9,4349,Cancelled,39141
+1827,Dec,North,Tablet,8,12860,Cancelled,102880
+1828,Jan,North,Phone,11,46036,On Hold,506396
+1829,Jun,North,Laptop,16,29731,Cancelled,475696
+1830,Dec,East,Mouse,4,46300,Resolved,185200
+1831,May,West,Keyboard,1,37463,Resolved,37463
+1832,Nov,South,Keyboard,7,19189,On Hold,134323
+1833,Sep,East,Laptop,2,29584,Resolved,59168
+1834,Jan,West,Mouse,5,40887,Shipped,204435
+1835,Jul,East,Laptop,7,9780,Shipped,68460
+1836,May,South,Phone,4,3142,Resolved,12568
+1837,May,West,Camera,5,42637,On Hold,213185
+1838,Feb,East,Tablet,1,14796,Cancelled,14796
+1839,Nov,South,Headphones,1,15938,On Hold,15938
+1840,Mar,North,Keyboard,15,48942,Cancelled,734130
+1841,Jul,South,Phone,19,38025,Resolved,722475
+1842,Jun,North,Tablet,10,3494,Resolved,34940
+1843,Dec,East,Phone,18,48494,Shipped,872892
+1844,Feb,West,Mouse,3,34539,Cancelled,103617
+1845,Jun,West,Keyboard,11,2313,On Hold,25443
+1846,Feb,East,Headphones,15,27991,Resolved,419865
+1847,Feb,West,Laptop,11,19345,On Hold,212795
+1848,Feb,West,Laptop,17,41743,Shipped,709631
+1849,Nov,North,Tablet,17,37664,Cancelled,640288
+1850,Mar,East,Headphones,6,42551,Cancelled,255306
+1851,Feb,South,Camera,5,13818,Resolved,69090
+1852,Apr,North,Monitor,8,17700,Cancelled,141600
+1853,Sep,East,Mouse,2,582,Resolved,1164
+1854,Jun,North,Tablet,16,2420,Shipped,38720
+1855,Jan,South,Monitor,12,41085,Cancelled,493020
+1856,Aug,South,Phone,6,12183,Resolved,73098
+1857,Dec,East,Mouse,1,11836,On Hold,11836
+1858,Jul,South,Phone,4,16096,Resolved,64384
+1859,Oct,North,Camera,17,2593,Cancelled,44081
+1860,Mar,South,Headphones,13,13405,Shipped,174265
+1861,Jan,North,Keyboard,18,24851,Cancelled,447318
+1862,May,North,Mouse,5,31481,Cancelled,157405
+1863,Apr,South,Monitor,3,8867,Resolved,26601
+1864,Oct,East,Camera,11,5785,On Hold,63635
+1865,Aug,West,Keyboard,13,44164,Cancelled,574132
+1866,Jan,South,Laptop,4,38205,On Hold,152820
+1867,Oct,North,Monitor,14,17253,Resolved,241542
+1868,Jan,North,Tablet,11,18985,On Hold,208835
+1869,Dec,South,Laptop,10,13477,Resolved,134770
+1870,Apr,East,Camera,19,20374,Shipped,387106
+1871,Aug,East,Laptop,18,8174,On Hold,147132
+1872,May,North,Tablet,6,29538,On Hold,177228
+1873,Feb,North,Mouse,15,29815,Shipped,447225
+1874,Jun,East,Laptop,10,4176,On Hold,41760
+1875,May,West,Headphones,5,2926,Shipped,14630
+1876,Feb,South,Monitor,5,24973,Cancelled,124865
+1877,Nov,North,Keyboard,10,3462,Resolved,34620
+1878,Nov,North,Laptop,5,30443,Shipped,152215
+1879,Nov,East,Monitor,3,1359,On Hold,4077
+1880,Mar,South,Phone,6,45316,Shipped,271896
+1881,Sep,East,Monitor,4,4638,On Hold,18552
+1882,Jul,South,Keyboard,18,35692,Cancelled,642456
+1883,Jul,South,Monitor,9,26140,Shipped,235260
+1884,Nov,South,Tablet,17,10909,Cancelled,185453
+1885,Jun,North,Camera,13,4517,Resolved,58721
+1886,Aug,West,Keyboard,15,10951,On Hold,164265
+1887,Apr,East,Camera,17,28827,On Hold,490059
+1888,Aug,West,Mouse,13,10778,Cancelled,140114
+1889,Apr,East,Camera,16,25444,Resolved,407104
+1890,Aug,South,Phone,4,44264,Shipped,177056
+1891,Sep,North,Tablet,5,1634,Shipped,8170
+1892,Mar,West,Mouse,5,30631,On Hold,153155
+1893,Mar,North,Monitor,9,38387,Cancelled,345483
+1894,Nov,East,Keyboard,17,38962,Cancelled,662354
+1895,Feb,North,Phone,13,23020,Shipped,299260
+1896,Oct,North,Tablet,2,22369,Resolved,44738
+1897,Mar,West,Mouse,13,37432,Resolved,486616
+1898,Mar,South,Mouse,19,5539,Shipped,105241
+1899,May,North,Phone,3,21781,Shipped,65343
+1900,May,South,Headphones,10,47899,Cancelled,478990
+1901,Feb,East,Monitor,2,10942,Resolved,21884
+1902,Dec,North,Phone,13,8752,Shipped,113776
+1903,Oct,West,Mouse,19,28086,Shipped,533634
+1904,Jun,East,Laptop,17,18068,On Hold,307156
+1905,May,East,Tablet,14,21310,Shipped,298340
+1906,Jun,West,Phone,12,2051,Shipped,24612
+1907,Jan,North,Headphones,12,13125,Resolved,157500
+1908,May,North,Mouse,11,34897,Cancelled,383867
+1909,Sep,East,Monitor,7,26749,Resolved,187243
+1910,Dec,North,Camera,4,1861,Cancelled,7444
+1911,Oct,South,Mouse,19,26649,On Hold,506331
+1912,Feb,West,Monitor,1,4870,Shipped,4870
+1913,Jan,South,Phone,3,5783,On Hold,17349
+1914,Oct,North,Monitor,13,8110,Cancelled,105430
+1915,Nov,East,Keyboard,15,43826,Resolved,657390
+1916,Sep,West,Keyboard,2,15424,Resolved,30848
+1917,Oct,North,Keyboard,11,48107,On Hold,529177
+1918,Sep,North,Headphones,4,45217,Cancelled,180868
+1919,Sep,East,Headphones,19,11126,On Hold,211394
+1920,Jun,East,Laptop,17,35261,On Hold,599437
+1921,Aug,South,Headphones,3,1369,Shipped,4107
+1922,Nov,West,Camera,18,32052,On Hold,576936
+1923,Jan,West,Phone,8,1514,Shipped,12112
+1924,Oct,East,Mouse,19,10603,Shipped,201457
+1925,Apr,South,Mouse,5,17486,Resolved,87430
+1926,Jan,West,Laptop,7,45281,Shipped,316967
+1927,Aug,East,Headphones,8,30971,Shipped,247768
+1928,Jan,North,Camera,5,33958,Resolved,169790
+1929,Mar,West,Monitor,17,25569,On Hold,434673
+1930,Apr,South,Laptop,5,17373,Cancelled,86865
+1931,Aug,South,Camera,4,23748,Cancelled,94992
+1932,Jun,South,Monitor,19,24124,Cancelled,458356
+1933,Oct,North,Camera,2,44016,On Hold,88032
+1934,Dec,West,Monitor,11,29561,Shipped,325171
+1935,Jul,West,Tablet,13,24670,Cancelled,320710
+1936,Aug,North,Camera,15,8524,On Hold,127860
+1937,Feb,West,Mouse,12,17178,Shipped,206136
+1938,Oct,North,Keyboard,11,38756,Resolved,426316
+1939,Nov,North,Headphones,7,20911,Cancelled,146377
+1940,Aug,North,Monitor,5,44303,Shipped,221515
+1941,Mar,South,Tablet,17,19796,Cancelled,336532
+1942,Jul,West,Camera,9,26793,Cancelled,241137
+1943,Mar,North,Mouse,14,27672,Cancelled,387408
+1944,Jul,West,Keyboard,12,21628,Shipped,259536
+1945,Nov,South,Monitor,6,18757,On Hold,112542
+1946,Dec,North,Camera,17,13355,Shipped,227035
+1947,Feb,East,Camera,19,20142,Cancelled,382698
+1948,Oct,South,Monitor,19,36085,Shipped,685615
+1949,Jun,East,Laptop,16,20525,Resolved,328400
+1950,Mar,West,Laptop,12,4958,On Hold,59496
+1951,Mar,West,Mouse,12,5807,Shipped,69684
+1952,Sep,South,Keyboard,6,42201,Resolved,253206
+1953,Jul,West,Monitor,4,18925,On Hold,75700
+1954,May,East,Mouse,6,43927,Resolved,263562
+1955,Dec,North,Mouse,11,28773,On Hold,316503
+1956,Oct,North,Phone,1,39006,Shipped,39006
+1957,Jul,North,Camera,15,6168,Resolved,92520
+1958,Sep,South,Headphones,11,26434,Cancelled,290774
+1959,Jan,West,Camera,19,47695,Resolved,906205
+1960,Jul,East,Laptop,18,8197,On Hold,147546
+1961,Jun,West,Keyboard,17,24917,Shipped,423589
+1962,Oct,West,Camera,19,16946,On Hold,321974
+1963,Dec,West,Monitor,14,41097,Resolved,575358
+1964,Sep,North,Mouse,18,11251,Resolved,202518
+1965,Jan,East,Monitor,19,46718,Cancelled,887642
+1966,Apr,East,Phone,15,7852,Shipped,117780
+1967,Sep,West,Keyboard,15,14016,Shipped,210240
+1968,Apr,North,Mouse,4,23799,Resolved,95196
+1969,Oct,North,Monitor,7,32457,Shipped,227199
+1970,Mar,East,Laptop,13,29427,Cancelled,382551
+1971,Sep,North,Headphones,3,41594,On Hold,124782
+1972,Feb,North,Phone,16,36912,Shipped,590592
+1973,Apr,North,Keyboard,9,29993,Resolved,269937
+1974,Jun,South,Phone,8,27211,On Hold,217688
+1975,Feb,West,Laptop,13,8503,On Hold,110539
+1976,Aug,East,Keyboard,17,32207,Cancelled,547519
+1977,Aug,East,Phone,17,3778,Resolved,64226
+1978,Jan,South,Tablet,17,7796,Shipped,132532
+1979,Dec,West,Laptop,1,25898,Resolved,25898
+1980,Mar,East,Laptop,8,36342,On Hold,290736
+1981,Oct,North,Laptop,19,13761,Resolved,261459
+1982,Sep,East,Tablet,6,11673,Shipped,70038
+1983,May,North,Tablet,3,30949,Shipped,92847
+1984,Jun,South,Monitor,5,41580,Cancelled,207900
+1985,Apr,North,Mouse,13,2137,Shipped,27781
+1986,Oct,East,Headphones,15,32281,Shipped,484215
+1987,Feb,East,Phone,14,14152,Resolved,198128
+1988,Nov,East,Monitor,16,5603,Resolved,89648
+1989,Aug,South,Phone,18,26000,On Hold,468000
+1990,Nov,South,Headphones,11,35300,Cancelled,388300
+1991,Jun,West,Mouse,3,36029,Resolved,108087
+1992,May,East,Tablet,10,48463,Shipped,484630
+1993,Sep,North,Mouse,10,18952,On Hold,189520
+1994,Jan,South,Tablet,16,49893,Resolved,798288
+1995,May,East,Headphones,12,31674,Cancelled,380088
+1996,Jun,East,Mouse,2,35936,Cancelled,71872
+1997,May,South,Monitor,9,47906,On Hold,431154
+1998,Jun,West,Keyboard,3,16454,On Hold,49362
+1999,Jun,South,Monitor,15,17686,On Hold,265290
+2000,Jul,South,Phone,3,12856,On Hold,38568
