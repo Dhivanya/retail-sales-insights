@@ -19,4 +19,3 @@ top performing products, regional performance, and order patterns.
 - **Matplotlib** — Data visualization
 - **Power BI** — Interactive dashboard
 
-## 📁 Project Structure
